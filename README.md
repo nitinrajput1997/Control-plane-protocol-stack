@@ -1,6 +1,6 @@
 # Control-plane-protocol-stack
 
-![](/photos/upf_protocol_stack.jpg)
+![](/photos/control_plane_protocol_stack.png)
 
 It supports in carrying the control informations between the user equipment and gNodeB and the core-network.
 
