@@ -7,7 +7,7 @@ It supports in carrying the control informations between the user equipment and 
 Each layers shown in above diagram provides the services to the layer above and consumes the services of the below layer.
 
 **Protocols**
-1. NAS  -  includes function for Authentication, Security, Idle mode procedure (Paging).
+1. NAS  -  includes function for Authentication, Security, Idle mode procedure (Paging). It has no relation with Radio Access Network.
 
 2. RRC  - includes function for System Information, Radio Bearer, Measurement Configuration.
 
